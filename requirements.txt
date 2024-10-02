@@ -1,2 +1,6 @@
 streamlit
-pandas
+PyPDF2
+google-generativeai
+gtts
+pydub
+scipy
