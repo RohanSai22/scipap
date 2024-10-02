@@ -4,3 +4,9 @@ google-generativeai
 gtts
 pydub
 scipy
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
